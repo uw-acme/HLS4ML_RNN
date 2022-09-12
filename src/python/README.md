@@ -9,7 +9,7 @@
 * `y_test.npy` : Same as the training data. Use the 5th column for testing.
 
 ## Training and testing scrips
-All the training and testing scripts are inside the `scripts` directory
+All the training and testing scripts are inside the `hls4ml-rnn-toptag` directory
 
 # B-tagging Model
 
@@ -18,4 +18,4 @@ Dataset is based on 7 TeV ttbar MC of CMS Open Data. You can download it here:
 `https://cernbox.cern.ch/index.php/s/dYrWPhWQFbAgjh1 - pwd: hls-btag`
 
 ## Training and testing scrips
-All the training and testing scripts are inside the `scripts` directory
+All the training and testing scripts are inside the `hls4ml-rnn-btag` directory
