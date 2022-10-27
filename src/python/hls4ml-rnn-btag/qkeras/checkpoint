@@ -1,0 +1,2 @@
+model_checkpoint_path: "ptq2int2fra_weight"
+all_model_checkpoint_paths: "ptq2int2fra_weight"
