@@ -19,3 +19,9 @@ All the training and testing scripts are inside the `hls4ml-rnn-btag` directory
 
 ## Training and testing scrips
 All the training and testing scripts are inside the `hls4ml-rnn-toptag` directory
+
+# Quickdraw Model
+
+## Training and Testing data
+
+## Training and testing scrips
