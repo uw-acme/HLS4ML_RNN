@@ -1,7 +1,7 @@
 # B-tagging Model
 
 ## Training and Testing data
-Dataset is based on 7 TeV ttbar MC of CMS Open Data. You can download it [here](`https://cernbox.cern.ch/index.php/s/dYrWPhWQFbAgjh1) - pwd: hls-btag`
+Dataset is based on 7 TeV ttbar MC of CMS Open Data. You can download it [here](https://cernbox.cern.ch/index.php/s/dYrWPhWQFbAgjh1) `- pwd: hls-btag`
 
 ## Training and testing scrips
 All the training and testing scripts are inside the `hls4ml-rnn-btag` directory
