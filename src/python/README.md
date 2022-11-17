@@ -22,6 +22,9 @@ All the training and testing scripts are inside the `hls4ml-rnn-toptag` director
 # Quickdraw Model
 
 ## Training and Testing data
-The training and testing data are already inside the `hls4ml-rnn-quickdraw` directory. 
+ 
+The training and testing data need to be produced by running the file `Quickdraw Preprocess.ipynb`.
+You can download the needed data for creating our training and testing dataset in [here](https://console.cloud.google.com/storage/browser/quickdraw_dataset/sketchrnn;tab=objects?pli=1&prefix=&forceOnObjectsSortingFiltering=false)
 
 ## Training and testing scrips
+The training and testing scrips are already inside the `hls4ml-rnn-quickdraw` directory.
